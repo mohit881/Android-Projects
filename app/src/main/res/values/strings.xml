@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI Calci</string>
+    <string name="weight">Weight</string>
+    <string name="feet">Height in Feet</string>
+    <string name="inch">Height in Inch</string>
+    <string name="button">Calculate</string>
+    <string name="result">Result</string>
+
+
+
+
+
+</resources>
